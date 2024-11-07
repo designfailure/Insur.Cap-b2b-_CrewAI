@@ -1,0 +1,28 @@
+Insur.Cap/
+insurtech-system/
+├── agents/
+│   ├── __init__.py
+│   ├── mga_analyst.py
+│   ├── underwriting.py
+│   ├── policy_management.py
+│   ├── risk_exposure.py
+│   └── esg_compliance.py
+├── tools/
+│   ├── __init__.py
+│   ├── google_search.py
+│   ├── weather_api.py
+│   └── climatiq_api.py
+├── ui/
+│   ├── __init__.py
+│   └── gradio_interface.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_mga_analyst.py
+│   ├── test_underwriting.py
+│   ├── test_policy_management.py
+│   ├── test_risk_exposure.py
+│   └── test_esg_compliance.py
+├── main.py
+├── requirements.txt
+├── .env
+└── README.md

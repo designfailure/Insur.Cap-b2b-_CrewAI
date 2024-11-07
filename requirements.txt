@@ -1,0 +1,8 @@
+crewai
+gradio
+requests
+python-dotenv
+openai
+pandas
+PyPDF2
+pytest
